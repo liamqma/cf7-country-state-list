@@ -27,9 +27,10 @@ Please place the file accordingly, depending on whatever theme you are using.
 /wp-content/themes/twentyeleven/header.php
 
 
-3. Add this to your header file before </head>:
+3. Add this to your header file before ``` </head> ``:
+```
 <script type= "text/javascript" src = "<?php bloginfo('template_directory'); ?>/js/countries.js"></script>
-
+```
 ---
 
 Now make a new form in Contact Form 7.
