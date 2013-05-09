@@ -34,14 +34,14 @@ Please place the file accordingly, depending on whatever theme you are using.
 
 Now make a new form in Contact Form 7.
 Add this:
-
+```
 	*Country:
 		<select onchange="print_state('state',this.selectedIndex);" id="country" name = "country"></select>
 	State:
 		<select name ="state" id = "state"></select>
 		<script language="javascript"> print_country("country","USA");</script>
 
-
+```
 So how do you include what was selected in the Message body?
 It's as simple as:
 
