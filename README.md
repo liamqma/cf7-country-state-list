@@ -6,6 +6,8 @@ Contact Form 7 - Country / State List.
 I had issues with adding a dynamic list of countries / states.  Luckly I found this script to incorporate into Contact Form 7 for Wordpress.
 Feel free to add improvements to the code.
 
+
+
 Original is from here: http://bdhacker.wordpress.com/2009/11/21/adding-dropdown-country-state-list-dynamically-into-your-html-form-by-javascript/
 
 And updated from here to add a default selection: http://jansouza.com/2010/10/13/javascript-country-state-list/
@@ -52,6 +54,9 @@ State:
 [state]
 
 ------
+todo -
+[ ] working example
+
 
 Contact Form 7: http://wordpress.org/extend/plugins/contact-form-7/
 
