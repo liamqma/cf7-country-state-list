@@ -60,3 +60,5 @@ State:
 [Contact Form 7](http://wordpress.org/extend/plugins/contact-form-7/)
 
 [Questions for Contact Form 7](http://wordpress.org/support/plugin/contact-form-7)
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/2ae17fb19a2bf34e093e42d04016b1a2 "githalytics.com")](http://githalytics.com/guardadoe/cf7-country-state-list)
