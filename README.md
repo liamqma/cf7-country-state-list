@@ -3,8 +3,7 @@ cf7-country-state-list
 
 Contact Form 7 - Country / State List.
 
-I had issues with adding a dynamic list of countries / states to Contact Form 7.  
-Luckly I found this script and incorporated it into Contact Form 7 for Wordpress.
+I had issues with adding a dynamic list of countries / states to Contact Form 7. Luckly I found this script and incorporated it into Contact Form 7 for Wordpress.
 **It's a standalone Country + State Javascript combobox/dropdown. You do not need Wordpress for this to work.**
 Feel free to add improvements to the code. 
 
