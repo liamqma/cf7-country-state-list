@@ -7,9 +7,12 @@
 </head>
 <body>
 Country:
-        <select onchange="print_state('state',this.selectedIndex);" id="country" name = "country"></select>
-State:	
+        <select onchange="printState('state',this.value);" id="country" name = "country"></select>
+State:
         <select name ="state" id = "state"></select>
-        <script language="javascript"> print_country("country","USA");</script>
+        <script language="javascript">
+            printCountry("country","US");
+            printState("state","US");
+        </script>
 </body>
 </html>
